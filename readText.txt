@@ -1,0 +1,4 @@
+Colombia,Norte de Santander,Cúcuta
+Colombia,Norte de Santander,Pamplona
+Colombia,Norte de Santander,Ocaña
+Colombia,Ministerio
